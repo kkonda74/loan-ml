@@ -23,11 +23,11 @@ Update the status and notes in this document as each step progresses.
 
 ## 2. Prepare the data
 
-- [TODO] Validate required fields, formats, ranges, and allowed values.
-- [TODO] Identify duplicates and inconsistent records.
-- [TODO] Define an explicit approach for missing values.
-- [TODO] Detect target leakage and proxy variables.
-- [TODO] Examine class imbalance and document any treatment applied.
+- [DONE] Validate required fields, formats, ranges, and allowed values.
+- [DONE] Identify duplicates and inconsistent records.
+- [DONE] Define an explicit approach for missing values.
+- [DONE] Detect target leakage and proxy variables.
+- [DONE] Examine class imbalance and document any treatment applied.
 - [TODO] Create chronological training, validation, and test sets where possible.
 - [TODO] Define a reproducible preprocessing workflow.
 
@@ -132,4 +132,3 @@ Update the status and notes in this document as each step progresses.
 ## Current milestone
 
 - [TODO] Complete Step 1 and establish the baseline results that later models and process changes will be measured against.
-
